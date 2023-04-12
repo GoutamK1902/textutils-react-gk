@@ -39,7 +39,7 @@ function App() {
         <div className="container my-3">
           <Routes>
             <Route
-              path="/"
+              path="/textutils-react-gk"
               element={
                 <TextForm
                   showAlert={showAlert}
